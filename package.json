@@ -177,7 +177,7 @@
     "slate-plain-serializer": "^0.1.10",
     "slate-react": "^0.1.10",
     "slate-soft-break": "^0.4.0",
-    "slug": "^0.9.1",
+    "slug": "^0.9.2",
     "toml-j0.4": "^1.1.1",
     "unified": "^6.1.4",
     "unist-builder": "^1.0.2",
