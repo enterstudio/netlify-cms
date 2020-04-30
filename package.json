@@ -21,7 +21,9 @@
     "lint:staged": "lint-staged",
     "deps": "npm-check -s",
     "deps:update": "npm-check -u",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run build",
+    "snyk-protect": "snyk protect",
+    "prepare": "yarn run snyk-protect"
   },
   "lint-staged": {
     "*.js": [
@@ -182,9 +184,11 @@
     "unified": "^6.1.4",
     "unist-builder": "^1.0.2",
     "unist-util-visit-parents": "^1.1.1",
-    "uuid": "^3.1.0"
+    "uuid": "^3.1.0",
+    "snyk": "^1.316.1"
   },
   "optionalDependencies": {
     "fsevents": "^1.0.14"
-  }
+  },
+  "snyk": true
 }
