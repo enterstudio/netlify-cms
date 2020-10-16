@@ -124,7 +124,7 @@
   "dependencies": {
     "@kadira/storybook": "^1.36.0",
     "classnames": "^2.2.5",
-    "create-react-class": "^15.6.0",
+    "create-react-class": "^15.7.0",
     "fuzzy": "^0.1.1",
     "gotrue-js": "^0.9.11",
     "gray-matter": "^3.0.6",
