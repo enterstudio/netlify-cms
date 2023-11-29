@@ -122,7 +122,7 @@
     "webpack-postcss-tools": "^1.1.1"
   },
   "dependencies": {
-    "@kadira/storybook": "^1.36.0",
+    "@kadira/storybook": "^2.21.0",
     "classnames": "^2.2.5",
     "create-react-class": "^15.6.0",
     "fuzzy": "^0.1.1",
@@ -146,7 +146,7 @@
     "react-datetime": "^2.6.0",
     "react-dom": "^15.5.0",
     "react-frame-component": "^1.0.3",
-    "react-hot-loader": "^3.0.0-beta.7",
+    "react-hot-loader": "^4.0.0",
     "react-immutable-proptypes": "^2.1.0",
     "react-redux": "^4.4.0",
     "react-router-dom": "^4.2.2",
@@ -167,7 +167,7 @@
     "rehype-remark": "^2.0.0",
     "rehype-stringify": "^3.0.0",
     "remark-parse": "^3.0.1",
-    "remark-rehype": "^2.0.0",
+    "remark-rehype": "^6.0.0",
     "remark-stringify": "^3.0.1",
     "sanitize-filename": "^1.6.1",
     "semaphore": "^1.0.5",
